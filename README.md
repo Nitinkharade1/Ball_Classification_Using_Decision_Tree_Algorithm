@@ -1,9 +1,5 @@
-# Machine Learning Case Study: Ball Classification Using Decision Tree Algorithm
 
-Here's a sample README file for a Machine Learning case study titled "Ball Classification Using Decision Tree Algorithm - Tennis or Cricket":
-
-```markdown
-# Machine Learning Case Study: Ball Classification Using Decision Tree Algorithm - Tennis or Cricket
+# Machine Learning Case Study: Ball Classification Using Decision Tree Algorithm.  
 
 This project is a Machine Learning case study that focuses on classifying balls into two categories: tennis balls and cricket balls. The goal is to demonstrate how the Decision Tree algorithm can effectively distinguish between these two types of balls based on their characteristics.
 
